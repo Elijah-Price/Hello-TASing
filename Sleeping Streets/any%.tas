@@ -1,0 +1,395 @@
+#SleepingStreetsA
+
+#Reset
+   1,Q
+   1,O
+ 221
+
+#Hello
+   5,R,D,J,X
+   6,R,D
+   4,R,J,K
+  15,R,D,X
+   1,R,J
+  12,R,U,X
+   2,R,J,G
+   6,R,K,G
+  10,R
+   1,R,J
+   1,R
+  40
+
+
+#Crossroads
+   8,R
+  18,R,D,X
+   5,R,J
+  11,R
+  14,R,X
+   5,R,J,G
+   1,R
+   1,R,J,G
+  34,R,D
+   3,R,J
+  40
+
+
+#Derelict
+   6,R,J
+   3,R
+  13,R,D,X
+   2,L,D,J
+  14,L,D,X
+   1,R,D,J
+  14,R,X
+   1,R,D,J
+  11,R,D,X
+   6,R,J
+   1,R,K,G
+   3,R,J,G
+   4,R,K,G
+  11,R,K
+   3,J
+   2,D,X
+  12,R,U,X
+   9,R,D,K,G
+  18,R,D
+   6,R,J
+  18,R,G
+  23,R,J,G
+  14,R,D
+  12,L,D
+   4,D
+   9,R,D
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   2,R,K
+   2,R,J,G
+   6,R,G
+  22,R,D,G
+  12,R,G
+   1,R,J
+  18,R,D,X
+  40
+   
+
+#Timepiece
+   5,R
+   3,R,J
+   6,R,U,X
+  18,L
+  14,L,D,X
+   1,L,J
+  14,R,D,X
+   1,R,J
+  14,L,D,X
+   1,R,J
+   3,D,X
+   6,R,U
+   1,R,D,J,G
+   9,R,D
+  40
+
+#Traffic Jam
+  15,R
+  17
+  10,L,D,X
+   6,R,J
+   4
+  12,R,D,X
+   1,L,J
+  10,D
+  10,L,D
+  20,D
+  17,D,G
+  69,G
+   7,R,J
+  19,R
+   5,R,J
+  20,R,X
+  13,R
+   1,R,J
+   9,R,D,X
+  62
+   
+
+#Dark Room
+   4,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   4,L,J
+   5,D,C
+  12,R
+   5,D
+   5,L,D,X
+   7,L,D
+   5,R,J
+   3,D,X
+   8,R,D
+   1,R,K,G
+   9,R,J,G
+  20,R,D
+   5,R,D,X
+  60
+
+
+#Lightswitch
+  11,R,D
+  10,R,J
+  14,U,X
+  16,L,J
+  40
+
+
+#Depot
+  27,L,J
+  13,U,X
+   5,J
+  10,L,J
+   3,L,K,G
+   3,L,J,G
+   3,L,K,G
+   3,L,J,G
+   5,L
+   2
+  14,U,X
+  11,L
+  19,L,J
+  16,U,X
+  19,J
+   3,R,K,G
+   4,R,J,G
+   7,R
+  13,U,X
+  18,R,J
+***
+   3
+   3,R
+   2
+  14,U,X
+  11,J
+  11,L
+  11,U,X
+   1,R,J
+  14,R
+  10,R,D,X
+   7,R,J
+  10,R,D,X
+  11,R
+   2,R,J
+   7,R,K,G
+   3
+  40
+
+
+#U-Turn
+  24,L,D
+   6,L
+  14,R
+  16,U,X
+  18,J
+   2,R,K,G
+   2,R,J,G
+   2,R,K,G
+   7,R
+  10,R,D,X
+   1,R,J
+   8,R
+  10,D,X
+  16,R,D
+   7,R
+  13,R,D
+   1,R
+  14,R,X
+   1,R,J,G
+   9,R
+  40
+
+#Plasma
+   1,R
+  10,R,D,X
+   1,R,J
+   8,R
+   5,R,U,X
+  25
+   7,J
+   5,L,U,X
+  13
+   5,R,D,X
+  12
+   1,R,J
+  10,R,D,X
+   5
+   5,R,D,X
+  32
+   5,D,X
+  40
+
+#Ouroboros
+  16,D
+   5,L,D,X
+  13
+   5,D,X
+  10
+  16,L
+   5,L,X
+  14
+   5,D,X
+  12
+   8,R,D,G
+   4,D
+  13,G
+   6,L
+   5,L,U,X
+  14,L,D
+   3,L,J
+   3
+  12,L,K
+  14,U,X
+  18,R
+   2,R,J
+   5,R,X
+  28
+   6,R,J
+   2,R,K,G
+   6,R
+   2,D,X
+   3,R
+  37
+   5,L,U,X
+  27,D
+   2,L,J
+   5,L,X
+  27
+   5,L,J
+   2,L,K,G
+   7,L
+   2,D,X
+   3,L
+  37,L
+   2,L,J
+   5,L,D,X
+  14,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+   6,L
+   5,D,X
+  23,D
+  40
+
+#Dead End
+   8,D
+  12,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+  31,D
+  17,L,D,X
+   1
+  14,R,D,X
+   6,R,J
+  20,R
+  10,R,U,X
+  15,R
+   2
+   3,L,J
+  16,U,X
+  12,J
+   2,R,J
+  11,R
+   8,R,D,X
+  40
+
+#Gravity Lapse
+   6,R,D
+   7,R,J
+  10,R,D,X
+  36,R
+   1,R,J,G
+  45,R,D
+  40
+
+#Wrench
+   2,R
+  15,R,D,X
+  10,L,J
+   3,R,J
+  26,R,K
+  10,U,X
+  60,R,J
+  50,R,K
+  24,R
+  10,R,J,G
+   3,R,D
+   1,R,J,G
+  30,R,D
+  12,D
+   8,R,J
+  11,J
+  19,U,X
+   3,R,J,G
+   2,R,K,G
+  12,R
+   5,R,X
+   3,R
+  40
+
+#Wanderlust
+   3,R,D
+   1,R,D,J
+  10,D
+  10,L,D
+  23,D
+   2,D,X
+   3,L
+  45,U,G
+  14,G
+  10,R,J
+   2,D,X
+  12,R
+   8,R,J
+   8,R
+   2,D,X
+  12,R
+  22,R,J
+  10,R,D,X
+  28,R
+   5,R,J,G
+  25,R
+   2,D,X
+  12,R
+   1,R,J
+   4,R,D,X
+   1,R,D
+  39
+   
+
+#right14
+  10,R,D
+   1,R,D,J
+   5,R,D,X
+   9,R,D
+   1,R,D,J
+   5,R,D,X
+   9,R,D
+   2,R,D,J
+   5,R,X
+  19
+   8,R,D,X
+   1,R,J
+   2,R
+  40
+
+#end
+   4,R
+  14,R,X
+ 200
+   1,O
