@@ -330,7 +330,6 @@
    6,L
    5,R,D,X
   14,R,J
-***
    8,R
    5,R,D,X
    3,R,J
@@ -339,203 +338,173 @@
   11,R,J
   28,L
   15,R,D
-  19,R,D,X
-  13,L,D,C
-   2,R,D,J
+   5,R,D,X
+  14,R,D
   13,R,D,X
   40
    
 
 #Satyr's Reach
-
    1,R,D,J
   11,R,D,X
   11,R,D,J
    8,R,D
   14,R,D,X
-   3,R,D,J
+   1,R,J
+   4,R
   14,R,D,X
-   1,R,D,J
+   3,R,D,J
    8,R,D,X
    6,R,D,J
    5,R,D
-  12,R,D,X
-   4,R,D,J
+   5,R,D,X
+  14,R
    2,R,J
-  33,R
-   5,R,D
-   9,R,D,X
-   1,R,D,J
-   2,R,J,G
-   2,R,K,G
-   7,R
-   1,R,J,G
-   2,R,K,G
-   6,R
-   3,R,J,G
-   5,R
-   8,R,J
-   7,R,D,K
-   8,U,X
-  19,R,D
+   5,R,D,X
+  15,R
+   1,R,J
   14,R,D,X
-   3,R,D,J
-  17,R,D,X
-   1,R,D,J
-  10,R,D,X
+   1,R,J
+  11,R,D,X
+   1,R,J
+  10,R
+   5,R,J
+  22,R
+  10,R,U,X
+  25,R
+   5,R,D,X
+  10,R,J
+  40
 
-#Battered Shelf
-  39
-   8,R,D,X
-   1,R,D,J
-  11,R,J
-  14,U,X
-  13,D
-   9,R,D,X
-   7,L,D,J,X
-   1,L,K,G
-   1,L,J,G
-   8,L,D
-   1,D,X
-   6,R
-  26,R,D
-  26,R,D,X
-   2,R,J
-   2,D,X
-  12,R,X
-  22,R,D
-   3,L,D
-   3,R,D
-   5,R,D,J,X
-  18,R,D
-   1,R,D,J
-   8,R,D,X
+   
 
 #Backbreaker
-
-  39,D
-   9,R,D,X
-   2,R,D
   14,R,D,X
-   1,R,D,J
-   1,X
-  15,R
+  28,R,J
+   5,R,X
+  20,R
+   8,R,D,X
+  13,R,J
+  25,R,D
+   1,R
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   2,R,J
+  13,R,U,X
+   1,R,J,G
+   4,R,D
+  40,D
+
 
 #Hubris
-
-  38,R
-  65,R
-  21,R,D,X
-  20,R,J
-  13,R,U,X
-   1,L,U,X
-   1,K,G
-   9
-   8,R
+   6,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+   1,R
   14,R,D,X
-   1,R,D,J
-  10,R,D,X
+  14,R,D
+   3,R,J
+  10,R
+  14,R,U,X
+  16,R
+  14,R,D,X
+  16,R,J
+  14,R,U,X
+   1,R
+   1,R,J,G
+   7,R
+  14,R,D,X
+   1,R,J
+   8,R,D,X
+  40
+
 
 #Gauntlet
-  38,R,D
-   5,R,D,X
-  11,R,J
-   5,R,U,X
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   5,R
-   1,R,J,G
+   2,R,D
+   1,R,J
+   7,R
+   1,R,J
+  11,R,U,X
+   5,R,J,G
    5,R,K,G
-  11,R
-   1,R,D,J
-   5,R
-  10,U,X
-   4,L,X
-  11,L
-  12,L,D,X
-   1,L,D,J
-   1,X
-  93,R
-  12,R,D,X
-  26,R,D,J
-   5,R,X
-   9,R,K,G
-  13,R,D
+  13,R
+   1,R,J
+  14,R,D,X
+  15,R,J
+  14,R,D,X
+  14,R,J
+  14,R,D,X
+   1,R
+   7,R,J
    9,R,D,X
-   2,R,D,J
+   8,R,J
+   5,R
+   7,R,J
+   3,R
+   1,D,X
+  13,R
+   8,R,J
+  12,R
+   1,D,X
+  12,R
+   3,R,J
+   2,R,K,G
+  12,R,J,G
+  14,R,U,X
+   1,R,J,G
+   1,R,K,G
+   7,R
+  14,R,D,X
+   1,L,J
+   6,R,D
+   5,D,X
+  22,R,D
+  14,R,D,X
+   1,R,J
+   8,R
+   6,R,J
+  14,R,U,X
+   2,R,J,G
    2,R,K,G
    3,R,J,G
-   7,R,D,X
-  12,R,D,J
-  12,R,D
-  14,R,D,X
-   1,R,D,J
-   5,R,D,X
-   9,L,D,X
-   2,L,D,J
+   3,R
+   1,R,D
    3,L,D
-   5,R,D
-  21,R,D
+   1,J
+  14,U,X
+   5,J
+   8,R,K
+  36,R,D
+  15,D,X
+  15
+  11,R
+   3,R,J
   14,R,D,X
-   5,R,D,J
-   1,R,K,G
-   2,R,J,G
+   1,R,J
   14,R,D,X
-   1,R,D,J
-   9,R,J
-  12,R,U,X
-   1,R,K,G
-   2,R,J,G
-   2,R,K,G
-   1,R,K
-   5,R,J,G
-   4,D
-   5,L,D
-  12,U,X
-   6,R,J,G
-   2,R,D,K
-   5,R,D
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-  22,R,D
-  12,R
-  15,R,D
-  13
-   3,J
-  14,R,D,X
-   1,R,D,J
-  13,L,D,X
-   1,R,D,X
-   1,R,D,J
-  14,R,D,X
-   1,R,D,J
+   1,R,J
   14,R,D,X
    4,R
-   2,L,D,J
-  14,R,D,X
-  10,R,J
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-  13,R,D
-  14,R,D,X
-   1,R,D,J
-   2,R,D
-  14,L,D,X
+   7,R,J
+   1,R
+   1,D,X
+  13,R
+   1,R,J
+   8,R
+   1,R,J
+  14,R,D
+  12,L,D,X
    3,L,K,G
-   3,L,J,G
+   2,L,J,G
    2,L,K,G
-   3,L,J,G
+   4,L,J,G
    9,L,D
-   3,L,J
+   5,L,J
   14,U,X
-   8,R,J,G
-  14,R
+  10,R,J,G
+  16,R
   12,R,D,X
    3,L,D,J
   14,R,D,X
@@ -550,14 +519,16 @@
    1,L
   13,L,D,X
    1,R,J
+  12,R
+   7,R,J
+  13,R
   14,R,D,X
-  10,R,J
-  23,R,D
-   9,R,J
-  10,R
-   5,R,X
-  24,R
-  16
+   9,R,D
+   3,R,J
+   8,R
+  10,R,X
+  13,R
+  22
    6,R,J
   14,R,D,X
    1,R,J
@@ -565,6 +536,7 @@
    1,R,J,G
    7,R
   40
+
 
 #last one
 
